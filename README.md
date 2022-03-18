@@ -52,7 +52,6 @@ Method: Create a Pandas DataFrame with 500 or more of the world's unique cities 
 
 ## Results:
 
-
 ![](analysis/.png)	
 
 ## Summary:
