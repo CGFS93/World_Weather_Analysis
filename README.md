@@ -46,9 +46,9 @@ Method: Create a Pandas DataFrame with 500 or more of the world's unique cities 
 
 ## Resources
 
-**Data Source:** .csv, .csv.
+**Data Source:** Open Weather Map API, Google Maps API.
 
-**Software:** Jupyter, Python graphing library Matplotlib.
+**Software:** Jupyter, Python.
 
 ## Results:
 ![](Vacation_Search/WeatherPy_vacation_map.png)	
