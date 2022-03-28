@@ -57,9 +57,9 @@ Method: Create a Pandas DataFrame with 500 or more of the world's unique cities 
 
 ## Summary:
 
-Deliverable 1: Retrieve Weather Data
-Deliverable 2: Create a Customer Travel Destinations Map
-Deliverable 3: Create a Travel Itinerary Map
+- Deliverable 1: Retrieve Weather Data
+- Deliverable 2: Create a Customer Travel Destinations Map
+- Deliverable 3: Create a Travel Itinerary Map
 
 
 The Weather_Database folder with the following:
